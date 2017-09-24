@@ -1,0 +1,23 @@
+{
+  "name": "lp",
+  "version": "1.0.0",
+  "description": "simple landing page with zurb-foundation6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RinatValiullov/foundation6_train.git"
+  },
+  "keywords": [
+    "zurb-fpundation\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[o\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Clanding-page",
+    "training"
+  ],
+  "author": "4rontender",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RinatValiullov/foundation6_train/issues"
+  },
+  "homepage": "https://github.com/RinatValiullov/foundation6_train#readme"
+}
