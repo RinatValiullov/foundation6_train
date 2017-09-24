@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RinatValiullov/foundation6_train/issues"
   },
-  "homepage": "https://github.com/RinatValiullov/foundation6_train#readme"
+  "homepage": "https://github.com/RinatValiullov/foundation6_train#readme",
+  "dependencies": {
+    "foundation-sites": "^6.4.3"
+  }
 }
