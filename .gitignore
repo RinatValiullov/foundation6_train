@@ -467,7 +467,6 @@ __pycache__/
 # should be stored in the .pubxml.user file.
 
 # Koala config
-sass/koala-config.json
 sass/style.scss
 
 
