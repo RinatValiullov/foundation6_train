@@ -466,8 +466,9 @@ __pycache__/
 # By default, sensitive information, such as encrypted password
 # should be stored in the .pubxml.user file.
 
-# Sass folder
-sass/
+# Koala config
+sass/koala-config.json
+sass/style.scss
 
 
 # End of https://www.gitignore.io/api/linux,macos,images,windows,notepadpp,sublimetext,visualstudio,visualstudiocode
