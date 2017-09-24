@@ -5,4 +5,14 @@
  * Licensed under MIT Open Source
  */
 h1 {
-  color: rgba(45, 150, 50, 0.8); }
+  color: rgba(45, 150, 50, 0.8);
+}
+
+.wr {
+  background: #999;
+  width: 800;
+  padding: 20px;
+}
+.wr .box {
+  background: #555;
+}
