@@ -467,7 +467,7 @@ __pycache__/
 # should be stored in the .pubxml.user file.
 
 # Sass
-sass/style.scss
+*.scss
 
 
 # End of https://www.gitignore.io/api/linux,macos,images,windows,notepadpp,sublimetext,visualstudio,visualstudiocode
